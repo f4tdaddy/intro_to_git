@@ -1,2 +1,2 @@
 # intro_to_git
-introductoin to git
+i am editing the README file. Adding some more deatils about the project description.
